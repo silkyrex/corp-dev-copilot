@@ -1,8 +1,10 @@
 # Corp Dev Copilot
 
-A Claude Code skill for reading **investment term sheets** and **merger agreements** through a corporate development lens — not a legal lens.
+Read term sheets and M&A agreements like a corp dev. Surfaces red flags, valuation mechanics, and deal structure in plain language — so you walk into every call knowing exactly what to fight on.
 
-Built for corp dev professionals who don't own the legal craft but own the **business terms**. Use it to move faster, sound sharper, and never miss a pro-rata clause again.
+Built for the person who owns the business terms, not the legal craft. Every doc is 40+ pages of dense boilerplate wrapping a dozen things that actually matter. This pulls those twelve things out, flags what's missing or non-standard, and hands you pushback language ready to drop into an email.
+
+One run. Two minutes to skim. Ready for the call.
 
 ---
 
